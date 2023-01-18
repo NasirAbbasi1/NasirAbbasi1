@@ -40,17 +40,30 @@
   <img align="center" src="assets/tools/cmd.svg" width="50px" />&nbsp;
   <img align="center" src="assets/tools/github.svg" width="55px" />&nbsp;
 </p>
-<!--
-**NasirAbbasi1/NasirAbbasi1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">
+<i><b>Profiles:</b></i> 
+  <br><br>
+<a href="mailto:nasirabbasi534@gmail.com">
+<img align="center" alt="Nasir @Mail" width="50px" src="assets/handles/gmail.png" />&nbsp;
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
+<a href="https://www.linkedin.com/in/nasir-abbasi-8b3284190">
+<img align="center" alt="Nasir @LinkedIN" width="50px" src="assets/handles/linkedin.png" />&nbsp;
+</a>
+
+<a href="https://twitter.com/NasirAb56320955">
+<img align="center" alt="Nasir @Twitter" width="50px" src="assets/handles/twitter.png" />&nbsp;
+</a>
+
+</p>
+
+<hr>
+
+<div align="center">
+
+[![github stats](https://github-readme-stats.vercel.app/api/?username=NasirAbbasi1)](https://github.com/NasirAbbasi1/github-readme-stats)
+<br><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NasirAbbasi1&layout=compact)](https://github.com/NasirAbbasi1/github-readme-stats)
+
+</div>
